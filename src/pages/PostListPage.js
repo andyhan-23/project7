@@ -9,4 +9,3 @@ const PostListPage = () => {
 };
 
 export default PostListPage;
-<test>
