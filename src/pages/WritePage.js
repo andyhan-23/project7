@@ -3,4 +3,3 @@ const WritePage = () => {
 };
 
 export default WritePage;
-<test>
