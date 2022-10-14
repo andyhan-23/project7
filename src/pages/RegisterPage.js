@@ -10,3 +10,4 @@ const RegisterPage = () =>{
 };
 
 export default RegisterPage;
+<test>
