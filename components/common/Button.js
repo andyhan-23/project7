@@ -38,4 +38,3 @@ const StyledButton = styled.button`
 
 const Button = (props) => <StyledButton {...props} />;
 export default Button;
-<test>
