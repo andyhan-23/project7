@@ -42,4 +42,3 @@ const auth = handleActions(
 
 export default auth;
 
-<test>
