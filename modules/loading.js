@@ -31,3 +31,4 @@ const loading = handleActions(
 );
 
 export default loading;
+<test>
