@@ -112,3 +112,4 @@ const AuthForm = ({type, form, onChange, onSubmit}) => {
 };
 
 export default AuthForm;
+<test>
